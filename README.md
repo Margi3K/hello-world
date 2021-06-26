@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+My name is Margaret and I like to eat all kinds of fruits especially berries.
